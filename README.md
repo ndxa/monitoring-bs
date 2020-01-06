@@ -33,6 +33,3 @@ Deployment:
 - Untuk mengganti URL yang diinginkan (jika sudah ada) maka dapat di edit di `monitoring-ingress.yaml` pada bagian host
 
 - Scalable harus menggunakan Thanos
-
-
-# monitoring-bs
